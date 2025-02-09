@@ -1,0 +1,15 @@
+.odd{
+    background-color: rgb(253, 206, 214);
+    font-family: Verdana,"DejaVu Sans" sans-serif;
+}
+.three{
+    font-size: 24px;
+}
+.two{
+    color: #0000ff;
+    font-size: 36px;
+}
+#uniq{
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;
+}
